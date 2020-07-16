@@ -12,7 +12,7 @@ Apart from this, we have used JSON Web Token (JWT) to add authentication. Using 
 1. **Clone the repo from GitHub**
    ```sh
    git clone https://github.com/skaisahni/Expense-Tracker-Api-Rest-Api-using-JWT-and-PostgreSQl.git
-   cd expense-tracker-api
+   cd directory
    ```
 2. **Spin-up PostgreSQL database instance**
 
